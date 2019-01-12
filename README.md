@@ -7,6 +7,7 @@ node app lista
 
 Los atributos que se utilizan son :
 
+...
 -l (Limite en la cantidad de multiplicaciones)
 -n (Número a multiplicar)
-
+...
